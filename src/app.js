@@ -4,7 +4,7 @@ const getAllFiles = require('./services/getAllFiles')
 const config = require('./config')
 
 const app = express()
-const port = 4000
+const port = process.env.APP_PORT || 4000
 const prefix = config.picturesPath
 
 app.use(morgan('dev'))
