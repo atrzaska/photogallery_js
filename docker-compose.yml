@@ -2,7 +2,7 @@ version: "2.1"
 
 services:
   photogallery:
-    image: photogallery
+    image: andrzejtrzaska/photogallery
     container_name: photogallery
     volumes:
       - ~/Pictures:/gallery

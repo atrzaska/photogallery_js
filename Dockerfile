@@ -1,3 +1,4 @@
+# IMAGE: andrzejtrzaska/photogallery
 FROM node:16-alpine
 WORKDIR /app
 COPY package*.json ./
