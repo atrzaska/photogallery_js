@@ -1,6 +1,6 @@
 # Photogallery
 
-Simple nodejs express application that serves images from your drive in a presentation mode in your borwser.
+Simple nodejs express application that serves images from your drive in a presentation mode in your browser.
 I was looking for some simple photo gallery viewer app in github and I decided to create something myself that is simply serving gallery from a given folder in a browser.
 This is usefull when you want to show your local images in for example chromecast.
 
