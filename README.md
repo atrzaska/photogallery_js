@@ -10,7 +10,7 @@ This is usefull when you want to show your local images in for example chromecas
 - endpoint `/` loads gallery
 
 # Keybindings
-- click: next iamge
+- click: next image
 - space: next image
 - down: previous image
 - up: next image
